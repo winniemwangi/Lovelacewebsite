@@ -1,0 +1,101 @@
+nav{
+    text-align: right;
+    margin: 40px;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    flex-direction:right;
+    padding: 40px;
+}
+nav ul li a{
+    color:#004C75;
+
+}
+ul li a:hover{
+    list-style: none;
+    background-color: rgb(7, 4, 48);
+    /* border: 20px; */
+    /* border-radius: 25%; */
+    padding:20px;
+    color: white;
+}
+
+.group2{
+
+    display: flex;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    align-items: center;
+    justify-content: center;
+}
+.group4{
+        display: flex;
+        /* margin-left: 10%;
+        margin-right: 0.5%; */
+        align-items: center;
+    justify-content: center;
+    }
+.barre{
+    padding: 9px;
+    /* border-radius: 5px; */
+}
+.charles{
+    padding: 9px;
+}
+.eric{
+    padding: 9px;
+}
+.john{
+    padding: 9px;
+}
+.joy{
+    padding: 9px;
+}
+.rodgers{
+    padding: 9px;
+}
+.vero{
+    padding: 9px;
+}
+.james{
+    padding: 9px;
+} 
+h1{
+    color: #004c70;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #004c70;
+    font-size: larger;
+}
+.group{
+    margin-left: 22%;
+
+}
+#one{
+    border-radius: 5%;
+}
+#two{
+    border-radius: 5%;
+}
+#three{
+    border-radius: 5%;
+}
+#four{
+    border-radius: 5%;
+}
+#five{
+    border-radius: 5%;
+}
+#six{
+    border-radius: 5%;
+}
+#seven{
+    border-radius: 5%;
+}
+#eight{
+    border-radius: 5%;
+}
