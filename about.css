@@ -16,9 +16,10 @@ nav ul li a{
 ul li a:hover{
     list-style: none;
     background-color: rgb(7, 4, 48);
-    border: 20px;
-    border-radius: 25%;
+    /* border: 20px; */
+    /* border-radius: 25%; */
     padding:20px;
+    color: white;
 }
 body{
     background-image: url(images/background.jpg);
