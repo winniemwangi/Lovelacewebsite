@@ -97,28 +97,39 @@ nav li a{
   }
 
   h1{position: absolute;
-    color: white;
-    top: 80%;
-    left: 2%;
+    color: rgb(244, 236, 236);
+    bottom: -60%;
+    left: 0%;
     }
     .hello{
         position: absolute;
-        right: 70%;
-        top: 100%;
-        color: white;
+        right:70%;
+        bottom:-67%;
+        color: rgb(239, 232, 232);
     }
     .hi {
         position: absolute;
         right: 20%;
-        top: 100%;
-        color: white;
+        bottom:-60%;
+        color: rgb(236, 228, 228);
+
+        
     }
-    #site-footer{
+    .footer{
         background-color:#004c75;
          padding-block-start: 10%;
-         margin-top: 50%;
+         margin-bottom: -0%;
+         margin-top:  150px;
     
-        
+     
+      /* position: absolute;
+      left: 0;
+      bottom: -20px;
+      width: 100%;
+      background-color: red;
+      color: white;
+      text-align: center;
+         */
          
          
     }
@@ -145,7 +156,7 @@ nav li a{
         
       }
     .email{
-        margin-left: 40px;
+        margin-left: 15px;
         padding-top: -120px;
         color:white;
         margin-top: -8%;
