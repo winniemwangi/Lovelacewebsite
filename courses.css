@@ -1,3 +1,27 @@
+nav{
+    text-align: right;
+    margin: 40px;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    flex-direction:right;
+    padding: 40px;
+}
+nav ul li a{
+    color:#004C75;
+
+}
+ul li a:hover{
+    list-style: none;
+    background-color: rgb(7, 4, 48);
+    /* border: 20px; */
+    /* border-radius: 25%; */
+    padding:20px;
+    color: white;
+}
+
 .group2{
 
     display: flex;
